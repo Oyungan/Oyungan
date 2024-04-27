@@ -1,0 +1,6 @@
+GraphicsWindow.BrushColor="black"
+GraphicsWindow.FillRectangle(100, 100, 600, 100)
+GraphicsWindow.BrushColor="red"
+GraphicsWindow.FillRectangle(100, 200, 600, 100)
+GraphicsWindow.BrushColor="yellow"
+GraphicsWindow.FillRectangle(100, 300, 600, 100)
